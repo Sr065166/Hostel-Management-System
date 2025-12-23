@@ -2,7 +2,7 @@
 
 A streamlined web application designed to manage hostel operations, student registrations, and room allocations efficiently.
 
-**Live Demo:** [View Live App](https://jattuhostelmanagement.netlify.app/register?redirect=/)
+**Live Demo:** [View Live App](https://jattuhostelmanagement.netlify.app/)
 
 ---
 
@@ -28,3 +28,4 @@ The **Hostel Management System** is a digital solution for educational instituti
 * **Deployment:** Netlify
 
 ---
+
