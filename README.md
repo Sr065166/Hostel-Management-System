@@ -1,86 +1,30 @@
-/* =====================================================
-   🏨 Hostel Management System – Web Application
-   ===================================================== */
+# Hostel Management System
 
-/* Project Info */
-.project-name {
-  name: "Hostel Management System";
-  type: "Web Application";
-  purpose: "Hostel operations management";
-  status: "Live";
-}
+A streamlined web application designed to manage hostel operations, student registrations, and room allocations efficiently.
 
-/* Live Website */
-.live-url {
-  link: "https://jattuhostelmanagement.netlify.app/";
-}
+**Live Demo:** [View Live App](https://jattuhostelmanagement.netlify.app/register?redirect=/)
 
-/* Description */
-.description {
-  overview: "A web-based Hostel Management System designed to simplify and digitalize hostel operations. 
-  The system helps manage student registration, room allocation, and overall hostel administration 
-  through an easy-to-use and responsive interface.";
-}
+---
 
-/* Core Features */
-.features {
-  authentication: "User Registration & Login";
-  redirection: "Secure redirect after login/registration";
-  hostel-management: "Centralized hostel data management";
-  user-interface: "Clean and responsive UI";
-  accessibility: "Accessible from desktop and mobile devices";
-}
+## Overview
 
-/* User Modules */
-.modules {
-  admin: "Manage hostel-related operations";
-  users: "Register and access hostel services";
-}
+The **Hostel Management System** is a digital solution for educational institutions and private hostels. It automates the process of student onboarding, room management, and administrative oversight, replacing traditional paper-based systems with a secure and responsive interface.
 
-/* Technology Stack */
-.tech-stack {
-  frontend: "HTML, CSS, JavaScript";
-  framework: "Modern Web Framework (if applicable)";
-  hosting: "Netlify";
-}
+### Key Features
+* **User Authentication:** Secure Sign-up and Login functionality for students and staff.
+* **Room Allocation:** Automated or manual assignment of rooms based on availability.
+* **Student Directory:** Comprehensive database to manage student details and emergency contacts.
+* **Dashboard Analytics:** Quick view of total students, vacant rooms, and pending tasks.
+* **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
 
-/* Setup Instructions */
-.installation {
-  step-1: "Clone or download the repository";
-  step-2: "Open the project folder";
-  step-3: "Install dependencies if required";
-  step-4: "Run the project locally or deploy";
-}
+---
 
-/* Registration Page */
-.registration {
-  url: "https://jattuhostelmanagement.netlify.app/register?redirect=/";
-  purpose: "New user registration with automatic redirection";
-}
+## Tech Stack
 
-/* Responsiveness */
-.responsive-design {
-  supported-devices: "Desktop, Tablet, Mobile";
-  layout: "Adaptive and user-friendly";
-}
+* **Frontend:** React.js / Vite
+* **Styling:** Tailwind CSS / CSS3
+* **Backend:** Node.js / Express.js
+* **Database:** MongoDB
+* **Deployment:** Netlify
 
-/* Learning Objective */
-.learning-purpose {
-  goal: "Built for learning and practical implementation of web development concepts";
-  focus: "Real-world application design and user flow";
-}
-
-/* Contribution */
-.contribution {
-  status: "Open for improvements";
-  note: "Suggestions and enhancements are welcome";
-}
-
-/* Appreciation */
-.support {
-  message: "If you like this project, consider giving it a ⭐";
-}
-
-/* =====================================================
-   End of README
-   ===================================================== */
+---
